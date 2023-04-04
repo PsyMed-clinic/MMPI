@@ -1,0 +1,9 @@
+body {
+  font-family: "B Nazanin", Arial, sans-serif;
+}
+table {
+  margin: 0 auto;
+}
+html[lang="en"] body {
+  font-family: "Times New Roman", Times, serif;
+}
